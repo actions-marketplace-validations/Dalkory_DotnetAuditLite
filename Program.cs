@@ -551,7 +551,7 @@ internal sealed record PreflightReport(
                         {
                             name = "DotnetAudit Lite",
                             informationUri = "https://github.com/Dalkory/DotnetAuditLite",
-                            semanticVersion = "1.0.0",
+                            semanticVersion = "1.0.1",
                             rules = distinctRules
                         }
                     },
